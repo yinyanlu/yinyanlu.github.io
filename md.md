@@ -12,7 +12,7 @@
 
 ![图片](http://huadong.yyl.qiniuts.com/huadong.jpg)
 
-[![video](http://huadong.yyl.qiniuts.com/huadong.jpg)](http://huadong.yyl.qiniuts.com/huadong.mp4)
+[![video](http://huadong.yyl.qiniuts.com/snapshot.png)](http://huadong.yyl.qiniuts.com/huadong.mp4)
 
 
 ```sh
