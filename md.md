@@ -12,7 +12,7 @@
 
 ![图片](http://huadong.yyl.qiniuts.com/huadong.jpg)
 
-<iframe width=1920 src="http://huadong.yyl.qiniuts.com/huadong.mp4" frameborder=0 allowfullscreen></iframe>
+[![video](http://huadong.yyl.qiniuts.com/huadong.jpg)](http://huadong.yyl.qiniuts.com/huadong.mp4)
 
 
 ```sh
